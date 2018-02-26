@@ -19,8 +19,6 @@ namespace AvaliacaoGuiando.Servicos.Concreto
 {
     public class FaturaPdfService : IFaturaService
     {
-        private const string NAMESPACE_FORNECEDORES = "AvaliacaoGuiando.Patterns";
-
         readonly IResolutionRoot ResolutionRoot;
 
         public FaturaPdfService(IResolutionRoot resolutionRoot)

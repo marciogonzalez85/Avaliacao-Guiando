@@ -58,7 +58,6 @@
     <Compile Include="App.cs" />
     <Compile Include="Config\KeyWords.cs" />
     <Compile Include="DI\NinjectBindings.cs" />
-    <Compile Include="Enums\DisplayAttribute.cs" />
     <Compile Include="Enums\Enums.cs" />
     <Compile Include="Model\FaturaModel.cs" />
     <Compile Include="Patterns\Acessa.cs" />
